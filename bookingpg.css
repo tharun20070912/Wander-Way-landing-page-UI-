@@ -21,3 +21,23 @@
 body{
     background-color: rgb(214, 175, 33);
 }
+
+#congrats{
+    text-align: center;
+    height:300px;
+    width:500px;
+    padding:15px;
+    background-color: bisque;
+    transform:scale(1.1);
+    transition-duration: 0.5s;
+    box-shadow: 6px 7px 9px 4px rgb(22, 22, 22);
+    border-radius: 35px;
+    margin-top:180px;
+    margin-left:450px;
+}
+
+#congrats:hover{
+    transform:scale(1.2);
+    border-radius:10px;
+    box-shadow: 12px 14px 18px 8px rgb(22, 22, 22);
+}
