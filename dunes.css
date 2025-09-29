@@ -1,0 +1,76 @@
+#bdy3{
+    background-image:linear-gradient(310deg, #d8e6d7 0%, #FED8B1 74%);
+}
+
+#dpfindia1{
+    background-color: #926d51;
+    
+}
+
+#dpfindia2{
+    background-color: #ECB176;
+    top:2300px;
+    position:absolute;
+    margin-top: 200px;
+}
+
+#dpfabroad1{
+    background-color:#A67B5B;
+    top:3900px;
+    position:absolute;
+    margin-top: 250px;
+}
+
+#dunesvidframe{
+    height:800px;
+    width:1250px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+#dplc1{
+    background-image:url(./places/Thar.jpg);
+    color:#070707;
+}
+
+#dplc2{
+    background-image:url(./places/Rannofkutch.jpeg);
+    color:#9a3705;
+}
+
+#dplc3{
+    background-image:url(./places/Nubravalley.jpeg);
+    color:#b85906;
+}
+
+#dplc4{
+    background-image:url(./places/spitivalley.jpeg);
+    color:#3b8752;
+}
+
+#dplc5{
+    background-image:url(./places/bikaner.jpeg);
+    color:#ffffff;
+}
+
+#dplc6{
+    background-image:url(./places/osiandeser.jpeg);
+    color:#070707;
+}
+
+#dplc7{
+    background-image:url(./places/Sahara.jpeg);
+    color:#070707;
+}
+
+#dplc8{
+    background-image:url(./places/Atacama.jpeg);
+    color:#fafafa;
+}
+
+#dplc9{
+    background-image:url(./places/namibia.jpeg);
+    color:#070707;
+}

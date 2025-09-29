@@ -1,0 +1,49 @@
+#logincrd{
+    height:500px;
+    width:400px;
+    background-color: rgb(252, 229, 198);
+    margin-top: 70px;
+    margin-left: 500px;
+    border-radius: 30px;
+    padding: 25px;
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 20px;
+    transition-duration: 1s;
+    /* box-shadow: 8px 10px 16px 2px; */
+}
+
+#logincrd:hover{
+    transform:scale(1.1);
+     box-shadow: 8px 10px 16px 2px;
+}
+#loginbdy{
+    background-color: rgb(250, 239, 226);
+}
+
+#signupcrd{
+    height:500px;
+    width:400px;
+    background-color: rgb(252, 229, 198);
+    margin-top: 100px;
+    margin-left: 500px;
+    border-radius: 30px;
+    padding: 25px;
+    text-align: center;
+    font-family: "Kanit", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 20px;
+    transition-duration: 1s;
+    /* box-shadow: 8px 10px 16px 2px; */
+}
+
+#signupcrd:hover{
+    transform:scale(1.1);
+     box-shadow: 8px 10px 16px 2px;
+}
+#signupbdy{
+    background-color: rgb(250, 239, 226);
+}

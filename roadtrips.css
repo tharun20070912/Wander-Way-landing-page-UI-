@@ -1,0 +1,70 @@
+#bdy5{
+    background-image:linear-gradient(310deg, #ecf0f4 0%, #035041 74%);
+}
+
+#rdpfindia1{
+    background-color: #149797;
+    margin-top:360px;
+    
+}
+
+#rdpfindia2{
+    background-color: #068075;
+    top:2300px;
+    position:absolute;
+    margin-top: 200px;
+}
+
+#dunesvidframe{
+    height:800px;
+    width:1250px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+#rdplc1{
+    background-image:url("./places/route66.jpg");
+    color:#070707;
+}
+
+#rdplc2{
+    background-image:url("./places/greatoceanroad.jpg");
+    color:#9a3705;
+}
+
+#rdplc3{
+    background-image:url("./places/Ruta40.jpg");
+    color:#b85906;
+}
+
+#rdplc4{
+    background-image:url("./places/gardenroute.jpg");
+    color:#3b8752;
+}
+
+#rdplc5{
+    background-image:url("./places/pamirhighway.jpg");
+    color:#ffffff;
+}
+
+#rdplc6{
+    background-image:url("./places/manalitoleh.jpeg");
+    color:#070707;
+}
+
+#routes{
+     font-size: 60px;
+    margin-bottom:-270px;
+    margin-top:160px;
+    text-align: center;
+    background-color: #D2C1B6;
+    border-radius: 30px;
+    transition-duration: 0.3s;
+}
+#routes:hover{
+    transform:scale(0.98);
+    border-radius:50px;
+}
+

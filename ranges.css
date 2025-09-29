@@ -1,0 +1,67 @@
+
+
+#bdy2{
+  background-image:linear-gradient(310deg, #d8e6d7 0%, #C2FFC7 74%);
+}
+
+#pfindia1{
+    background-color: #72966d;
+    
+}
+
+#pfindia2{
+    background-color: #7cb87a;
+    top:2300px;
+    position:absolute;
+}
+
+#pfabroad1{
+    background-color:#749767;
+    top:3900px;
+    position:absolute;
+}
+
+#plc1{
+    background-image:url("./page1media/munnar_pic_frm_ph.jpg");
+    color:#2c5724;
+}
+
+#plc2{
+    background-image:url("./places/Mussoorie.jpg");
+    color:#fa9f9f;
+}
+
+#plc3{
+    background-image:url("./places/nainital.jpg");
+    color:#e0e7df;
+}
+
+#plc4{
+    background-image:url("./places/shillong.jpg");
+    color:#2c5724;
+}
+
+#plc5{
+    background-image:url("./places/Darjeeling.jpg");
+    color:#341162;
+}
+
+#plc6{
+    background-image:url("./places/Manali.jpg");
+    color:#5a0e1b;
+}
+
+#plc7{
+    background-image: url("./places/stmortiz.jpg");
+    color:#5a0e1b;
+}
+
+#plc8{
+    background-image: url("./places/queenstown.jpg");
+    color:#071f57;
+}
+
+#plc9{
+    background-image: url("./places/benff.jpg");
+    color:#1f194d;
+}

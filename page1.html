@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="page1.css">
+    <link rel="stylesheet" href="common.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Pacifico&display=swap" rel="stylesheet">
+
+</head>
+<body id="bdy1">
+    <header class="navpane" id="scrltop">
+    <div ><!--navigation bar with div as buttons-->
+        <div ><img style="zoom: 140%; margin-right:-50px;" class="logo" src="./icons/fulllogo.png"></div>
+        <div onclick="document.location='page1.html'" class="navbt">HOME</div>   <!--Onclick is used instead of anchor tag-->
+        <div onclick="document.location='aboutus.html'" class="navbt">ABOUT</div>
+        <div onclick="document.location='bookingpg.html'" class="navbt">BOOK NOW</div>
+        <div onclick="document.location='login.html'" class="navbt">LOGIN</div>
+        
+    </div>
+    </header>
+    
+    <video src="./page1media/Untitled video - Made with Clipchamp.mp4" muted autoplay width="1500px" height="900px"></video>  <!--BG INTRO VID-->
+    <h1 id="catalogue">Explore</h1> 
+    
+    
+    <a href="#scrltop"><div class="navtop"><img src="./page1media/Arrowup.png" style="height:40px; width:40px; position:absolute; margin-left:5px"></div></a>
+
+
+    <!--MAIN FRAME 1 FIRST SET OF CARDS--> 
+    <div class="mainframe">                        
+                                  
+    <div Class="maincrd" class="explore" id="maincrd1a" onclick="document.location='ranges.html'">
+       <video class="cardvid"  src="./page1media/14203616_2160_3840_60fps.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle1">HILLS</h1>
+      </div>
+     <!-- <div class="mc-quote1">
+        <h3>Worth the climb</h3>
+      </div>-->
+    </div>
+
+    <div Class="maincrd" id="maincrd1b" onclick="document.location='cities.html'">
+      
+       <video class="cardvid"  src="./page1media/296958_small.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle2">CITIES</h1>
+      </div>
+    </div>
+
+    <div Class="maincrd" id="maincrd1c" onclick="document.location='dunes.html'">
+      
+       <video class="cardvid"  src="./page1media/sand dunes vertical.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle3">DUNES</h1>
+      </div>
+    </div>
+
+  </div>
+                                        <!--MAIN FRAME 2 SECOND SET OF CARDS-->
+
+  <div class="mainframe" id="mainframe2">
+
+   <div Class="maincrd" id="maincrd2a" onclick="document.location='cruise.html'">
+       <video class="cardvid"  src="./page1media/cruisecardyt.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle4">CRUISE</h1>
+      </div>
+    </div>
+
+     <div Class="maincrd" id="maincrd2b" onclick="document.location='roadtrips.html'">
+      
+       <video class="cardvid"  src="./page1media/roadtripcrdyt.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle5">ROADTRIPS</h1>
+      </div>
+    </div>
+
+    <div Class="maincrd" id="maincrd2c" onclick="document.location='cities.html'">
+      
+       <video class="cardvid"  src="./page1media/sea side vertical pixabay.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle6">COASTAL</h1>
+      </div>
+    </div>
+  </div>
+
+                      <h1 id="catalogue" style="margin-top:1900px;">Coming soon!</h1>
+                                    <!--MAIN FRAME 3 SECOND SET OF CARDS-->
+
+
+    <div class="mainframe" id="mainframe3">
+
+   <div Class="maincrd" id="maincrd3a" onclick="document.location='ranges.html'">
+       <video class="cardvid"  src="./page1media/snowcapcrdpixabay.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle7">SNOWCAPS</h1>
+      </div>
+    </div>
+
+     <div Class="maincrd" id="maincrd3b" onclick="document.location='dunes.html'">
+      
+       <video class="cardvid"  src="./page1media/islandcrdyt.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle8">ISLAND</h1>
+      </div>
+    </div>
+
+    <div Class="maincrd" id="maincrd3c" onclick="document.location='cities.html'">
+      
+       <video class="cardvid"  src="./page1media/trekkingcrdyt.mp4" muted autoplay loop></video>
+       <div class="innercard">
+      <h1 class="crdtitle9">TREKKING</h1>
+      </div>
+    </div>
+    </div>
+
+    <footer class="foot" style="margin-top:1000px;">
+    <div class="pay"><h1>Payment methods</h1><hr><img class="icon" src="./icons/payiconfinale.png"></div>
+    <div class="pay"><h1>Contact:<hr>+91 8610000231</h1><img class="icon" src="./icons/contacticon.png"></div>
+    <div class="pay"><h1>Links:</h1><hr><a href="page1.html"><h1>Home</h1></a>
+        <a href="aboutus.html"><h1>About Us</h1></a></div>
+        <div class="pay"><br><br><br><br><br><a href="aboutus.html"><h1>Book now</h1></a>
+        <a href="aboutus.html"><h1>Fast booking</h1></a></div>
+        <div class="pay"><br><br><br><br><br><a href="aboutus.html"><h1>Help desk</h1></a><a href="aboutus.html"><h1>Quote</h1></a>
+        </div>
+</footer>
+</body>
+</html>

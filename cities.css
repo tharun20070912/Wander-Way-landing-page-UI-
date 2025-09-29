@@ -1,0 +1,98 @@
+#citiesvidframe{
+    height:800px;
+    width:1250px;
+}
+
+#bdy4{
+     background-image:linear-gradient(310deg, #d8e6d7 0%, #d48f8f 74%);
+}
+
+#cpfindia1{
+    background-color: #8D5F8C;
+    
+}
+
+#cpfindia2{
+    background-color: #A376A2;
+    top:2300px;
+    position:absolute;
+    margin-top: 200px;
+}
+
+#cpfabroad1{
+    background-color:#8a5ba6;
+    top:3900px;
+    position:absolute;
+    margin-top: 250px;
+}
+
+#dunesvidframe{
+    height:800px;
+    width:1250px;
+}
+
+#destinationc{
+     font-size: 60px;
+    margin-bottom:-270px;
+    margin-top:160px;
+    text-align: center;
+    background-color: #e03434ee;
+    border-radius: 30px;
+    transition-duration: 0.3s;
+}
+#destinationc:hover{
+    transform:scale(0.98);
+    border-radius:50px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+#abroadc{
+    background-color: antiquewhite;
+}
+
+#cplc1{
+    background-image: url("./places/Mumbai.jpg");
+}
+
+#cplc2{
+    background-image: url("./places/delhi.jpg");
+    color: #050b42;
+}
+
+#cplc3{
+    background-image: url("./places/bangaluru.webp");
+    color:#591909;
+}
+
+#cplc4{
+    background-image: url("./places/hyderabad.jpg");
+    color:#3bbdbd;
+}
+
+#cplc5{
+    background-image: url("./places/ahmedabad.webp");
+    color:#eff0f4;
+}
+
+#cplc6{
+    background-image: url("./places/pune.webp");
+    color:#d5daef;
+}
+
+#cplc7{
+    background-image: url("./places/newyork.webp");
+    color:#fdfdfd;
+}
+
+#cplc8{
+    background-image: url("./places/paris.jpg");
+    color:#cbb5e8;
+}
+
+#cplc9{
+    background-image: url("./places/tokyo.jpg");
+}
+

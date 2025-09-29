@@ -1,0 +1,70 @@
+#bdy4{
+    background-image:linear-gradient(310deg, #ecf0f4 0%, #0A2647 74%);
+}
+
+#crpfindia1{
+    background-color: #205295;
+    margin-top:360px;
+    
+}
+
+#crpfindia2{
+    background-color: #144272;
+    top:2300px;
+    position:absolute;
+    margin-top: 200px;
+}
+
+#dunesvidframe{
+    height:800px;
+    width:1250px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+#crplc1{
+    background-image:url("./places/baltics.jpg");
+    color:#070707;
+}
+
+#crplc2{
+    background-image:url("./places/ship2.jpg");
+    color:#9a3705;
+}
+
+#crplc3{
+    background-image:url("./places/ship3.png");
+    color:#b85906;
+}
+
+#crplc4{
+    background-image:url("./places/ship4.jpg");
+    color:#3b8752;
+}
+
+#crplc5{
+    background-image:url("./places/ship5.jpg");
+    color:#ffffff;
+}
+
+#crplc6{
+    background-image:url("./places/disneycruise.jpg");
+    color:#070707;
+}
+
+#cruise{
+     font-size: 60px;
+    margin-bottom:-270px;
+    margin-top:160px;
+    text-align: center;
+    background-color: #D2C1B6;
+    border-radius: 30px;
+    transition-duration: 0.3s;
+}
+#cruise:hover{
+    transform:scale(0.98);
+    border-radius:50px;
+}
+

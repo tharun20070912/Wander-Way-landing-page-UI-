@@ -1,0 +1,44 @@
+div h1{
+     font-family: "Kanit", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.abtus{
+    height:200px;
+    width:1000px;
+    text-align:left;
+    margin-top:100px;
+    margin-left:200px;
+    background-color: rgb(202, 230, 255);
+    padding: 20px;
+    border-radius: 10px;
+    transition-duration: 1s;
+}
+
+.abtus:hover{
+    transform:scale(1.1);
+}
+
+#abtbdy{
+    background-color: rgb(117, 165, 165);
+}
+
+#bookingcrd{
+    background-color: aliceblue;
+    border-radius:20px;
+    height:1100px;
+    width:400px;
+    margin-left:470px;
+    margin-top:200px;
+    text-align: center;
+    box-shadow:4px 4px 8px 8px rgba(10, 10, 10, 0.453);
+    transition-duration: 1s;
+    padding:60px;
+}
+
+#bookingcrd:hover{
+    transform:scale(1.1);
+}
+
+

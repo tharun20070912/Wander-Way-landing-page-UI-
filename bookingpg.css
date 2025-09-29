@@ -1,0 +1,23 @@
+#bookcard{
+    transition-duration: 5s;
+    height:550px;
+    width:1250px;
+    padding:50px;
+    margin-left:80px;
+    margin-top:40px;
+    border-radius:30px;
+    background-color: rgba(164, 210, 250, 0.814);
+    transform:scale(0.9);
+    transition-duration: 0.5s;
+    box-shadow: 6px 7px 9px 4px rgb(22, 22, 22);
+    
+}
+#bookcard:hover{
+    transform:scale(1);
+    border-radius:10px;
+    box-shadow: 12px 14px 18px 8px rgb(22, 22, 22);
+}
+
+body{
+    background-color: rgb(214, 175, 33);
+}
